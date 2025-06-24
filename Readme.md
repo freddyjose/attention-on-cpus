@@ -1,0 +1,1 @@
+This is an attempt to make inference of flux1.dev images on CPUs easier. This is not an attempt to beat GPUs or something, but due to the heat here in India, i cannot run inference on GPUs, so this is an attempt to do inference on CPUs as they can be cooled by a cheap CPU cooler
