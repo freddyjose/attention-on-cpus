@@ -1,0 +1,3 @@
+q shape: torch.Size([1, 24, 4250, 128])
+k shape: torch.Size([1, 24, 4250, 128])
+v shape: torch.Size([1, 24, 4250, 128])
